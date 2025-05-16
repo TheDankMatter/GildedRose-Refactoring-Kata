@@ -1,5 +1,10 @@
 package com.gildedrose;
 
+/**
+ * Represents an item in the Gilded Rose inventory.
+ * <p>
+ * Note: This class should not be modified as per kata constraints.
+ */
 public class Item {
 
     public String name;
